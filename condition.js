@@ -1,3 +1,8 @@
+ // ========================================== 
+//                ***** CONDITION  *******
+// ================================================== 
+
+ 
         var jobPaiso = true;
         var taka = 5424;
         if(jobPaiso == true  && taka > 78120300){
@@ -12,7 +17,13 @@
        console.log("Tor Kopale  biya nai");
      }
 
-            //  CONDITION   (LEARN TIME) {ASO NIJE KORI✔🥰🥰🌹🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰}
+  
+
+
+ //================== ********* 
+ // (LEARN TIME) Do it myself ✔✔✔✔ 
+ // ======================= **************
+
 
       var BiscuitPrice = 12;
       if(BiscuitPrice < 8){

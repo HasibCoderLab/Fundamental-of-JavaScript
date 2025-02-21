@@ -1,3 +1,7 @@
+// ========================================== 
+//                ***** CONDITION  *******
+// ================================================== 
+
    var friendsAge = [15,17,14,16];
    
    var sonaliAge = friendsAge[2];
@@ -25,7 +29,11 @@
 
 
 
-//  Array     (LEARN TIME) {ASO NIJE KORI✔
+   
+//   //================== ********* 
+ // (LEARN TIME) Do it myself ✔✔✔✔ 
+  // ======================= **************
+
 
   var friendsAge = [10,11,12,13,14,15];
   var search = friendsAge[4]

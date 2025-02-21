@@ -133,6 +133,9 @@ var number5 = 54;
 number5 = number5 % 4
 console.log(number5);
 
+    //================== ********* 
+    // (LEARN TIME) Do it myself ✔✔✔✔ 
+    // ======================= **************
 
 
 
